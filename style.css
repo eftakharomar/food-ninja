@@ -1,0 +1,53 @@
+body{
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.salmon{
+    color: chocolate;
+}
+.link-button{
+    text-decoration: none;
+    background-image:linear-gradient( orange , red);
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700px;
+}
+.flex-area{
+    display: flex;
+    margin-bottom: 150px;
+    align-items: center;
+}
+.half-width{
+    width:50%;
+    padding-left: 5%;
+}
+.half-width img{
+    width:80%;
+}
+.bac-img{
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+}
+footer p{ text-align: center;
+    background: black;
+    color: white;
+    padding: 20px;
+
+}
+.text-cen{
+    text-align: center;
+}
+.snd-half{
+    width: 33%;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.329);
+    margin: 0 20px 30px;
+    padding: 20px;
+    border-radius: 30px;
+    
+    
+}
+.snd-half img{
+    width: 100%;
+    border-bottom: 20px;
+   
+}
